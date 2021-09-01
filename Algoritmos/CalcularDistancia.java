@@ -7,18 +7,6 @@ import java.util.Scanner;
 	Construa um programa em c que, tendo como dados de entrada dois pontos
 	quaisquer no plano, P(x1, y1) e P(x2, y2),
 	escreva a distância entre eles. A fórmula
-
-
-		real x1,x2,y1,y2,distancia
-
-		escreva("Digite dos dois (x1, y2, x2, y2)")
-		leia(x1,y1,x2,y2)
-
-		distancia = Matematica.raiz ( Matematica.potencia((x2-x1), 2) + Matematica.potencia( (y2-y1) ,2) , 2)
-
-		escreva ("A distância entre os dois pontos é de: ", distancia)
-
-
 	*/
 public class CalcularDistancia {
 
