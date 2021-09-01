@@ -9,7 +9,6 @@ categoria ela se encontra:
  10-14 infantil
  15-17 juvenil
  18-25 adulto
-
 */
 
 public class CategoriaIdade {
