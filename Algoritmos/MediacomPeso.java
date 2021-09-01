@@ -3,20 +3,6 @@ package GenerationTurma32.Algoritmos;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/*//PESOS NOTAS
-		const inteiro
-		peso1=2,
-		peso2=3,
-		peso3=5
-
-		//VARIAVEIS
-		real p1,p2,p3,media, calculoPeso
-		escreva("-----> digite as notas p1, p2 <-------")
-		leia(p1,p2,p3)
-		calculoPeso= (p1*peso1 + p2*peso2 + p3*peso3) / (peso1+peso2+peso3)
-		escreva("Média:", calculoPeso)
-*/
-
 public class MediacomPeso {
 
     public static void main(String[] args)

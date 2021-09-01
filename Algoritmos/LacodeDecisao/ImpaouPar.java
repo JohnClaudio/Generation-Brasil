@@ -25,7 +25,7 @@ public class ImpaouPar {
             } else {
                 System.out.println("O numero: " + numero + " é impar, e seu numero elevado ao quadrado é de: " + Math.pow(numero, 2));
             }
-            
+
         }
         catch (InputMismatchException error)
         {
