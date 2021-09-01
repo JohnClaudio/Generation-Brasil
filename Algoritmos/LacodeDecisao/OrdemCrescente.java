@@ -14,7 +14,7 @@ public class OrdemCrescente {
         c = leia.nextInt();
         System.out.println("\n");
 
-        //5 25 2 ENTRADA DE EXEMPLO USUARIO ENTRA NESTE LAÇO
+        //5=A 25=B 2=C ENTRADA DE EXEMPLO USUARIO
 
         if (a<b && a<c) // SE O "A" FOI O MENOR NUMERO DIGITADO
         {
@@ -34,7 +34,7 @@ public class OrdemCrescente {
             }
         }
 
-        //5 25 2 ENTRADA DE EXEMPLO USUARIO
+        //5=A 25=B 2=C ENTRADA DE EXEMPLO USUARIO
 
         if (b<a && b<c) // SE O B FOI O MENOR NUMERO DIGITADO ENTRA NESTE LAÇO;
         {
@@ -57,10 +57,12 @@ public class OrdemCrescente {
 
         }
 
-        //5 25 2 ENTRADA DE EXEMPLO USUARIO ENTRA NESTE LAÇO
+        //5=A 25=B 2=C ENTRADA DE EXEMPLO USUARIO
 
         if (c<a && c<b){ // SE O C FOI O MENOR NUMERO DIGITADO;
             System.out.println("entrou no laço em que C É O MENOR");
+
+            //COMO SABEMOS QUE O MENOR NUMERO DIGITADO FOI C, PRECISAMOS SABER A ORDEM DE "B" E "A"
 
             if (a<b)
             {
