@@ -1,4 +1,4 @@
-package GenerationTurma32.Algoritmos.Arrays;
+package GenerationTurma32.Algoritmos.VetoreseMatrizes;
 /*
 3- Leia uma matriz 3 x 3, conte e escreva quantos valores maiores que 10 ela possui.
 */
@@ -14,7 +14,6 @@ public class Matriz3x3 {
         int numero[][] = new int [3][3];
         Scanner leia = new Scanner(System.in);
         int qtdValoresMaioresqueDez=0;
-
         try
         {
 

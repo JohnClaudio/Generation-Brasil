@@ -1,4 +1,4 @@
-package GenerationTurma32.Algoritmos.Arrays;
+package GenerationTurma32.Algoritmos.VetoreseMatrizes;
 
 
 /*
