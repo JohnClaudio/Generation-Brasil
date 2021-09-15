@@ -22,7 +22,7 @@ public class Calculadora {
     @FunctionalInterface
     public interface Calculo {
         public Double calcular (Double a, Double b);
-     
+
     }
 
 
