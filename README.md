@@ -13,4 +13,4 @@
 
 
 
-####  Repositório destinado pra algumas traquinagens e atividades realizadas no bootcamp de formação da Generation Brasil e Santander  💖
+####  Repositório destinado pra algumas traquinagens que eu aprendo com Java e também para atividades realizadas no bootcamp da Generation Brasil. 💖
